@@ -1,1 +1,1 @@
-class BlocCounter extends Bloc<>{}
+class BlocCounter  {}
